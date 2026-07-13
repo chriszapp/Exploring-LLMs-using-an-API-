@@ -1,0 +1,11 @@
+1 - Why did you choose to fine-tune instead of using chatgpt-3.5-turbo or a newer version? Or a ready model from HF?
+2 - Why did you choose the model you are fine-tuning? 
+3 - Are you using LoRA? Why not QLoRA? 
+4 - why the answer is in instruct and not input?
+5 - For future steps: 
+ -- how would you evaluate the fine-tuning model performance? 
+ -- would another base model work better? 
+ -- would other TraningArgs improve speed or performance?
+
+
+
